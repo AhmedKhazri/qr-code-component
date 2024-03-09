@@ -9,6 +9,7 @@ body {
     font-family: "Outfit", sans-serif;
     color: var(--Dark-blue);
     padding: 20px;
+    margin: auto;
 }
 .attribution{
     font-size: 11px; 
